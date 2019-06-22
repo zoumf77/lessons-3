@@ -46,7 +46,7 @@ public class TestInherit {
 		
 		
 		
-		System.out.println("没被继承的可被访问的");
+		System.out.println("对超类的常量=========");
 		SubClass c1=new SubClass("Jenny",21,"famale");
 		
 		
